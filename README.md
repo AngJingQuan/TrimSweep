@@ -1,3 +1,3 @@
 # TrimSweep
 
-<img src="TrimSweep.png" alt="Package Logo" width="150" height="150">
+<img src="TrimSweep.png" alt="Package Logo" width="300" height="300">
